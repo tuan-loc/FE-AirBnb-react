@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "content": {
+    "id": 0,
+    "name": "phamducai",
+    "email": "phamducai@gmail.com",
+    "password": "123",
+    "phone": "0974380625",
+    "birthday": "28/10/1999",
+    "avatar": null,
+    "gender": true,
+    "role": "USER"
+  },
+  "dateTime": "2023-02-03T07:14:44.3519996+00:00"
+}

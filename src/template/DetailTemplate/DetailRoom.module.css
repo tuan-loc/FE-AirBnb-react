@@ -1,0 +1,5 @@
+@media only screen and (max-width: 640px) {
+    h1, h2 {
+      font-size: 18px;
+    }
+} 
